@@ -1,0 +1,43 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "name": "Uma",
+      "email": "uma@gmail.com",
+      "mobile": "7891234561",
+      "address": "WFH",
+      "services": "Coffee"
+    },
+    {
+      "id": 3,
+      "name": "test",
+      "email": "test@gmail.com",
+      "mobile": "4561237898",
+      "address": "desi theka",
+      "services": "khajur"
+    },
+    {
+      "id": 4,
+      "name": "home",
+      "email": "home@gmail.com",
+      "mobile": "7964138529",
+      "address": "kya kar raha hai",
+      "services": "faluda"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some content",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
